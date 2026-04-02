@@ -15,7 +15,6 @@ int main() {
     cin >> num2;    //num2=nfact
     factResult = findFactorial(num2);    //function calling
     cout << "Factorial of the number is " << factResult << endl;
-
     return 0;
    
 }
